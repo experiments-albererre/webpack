@@ -6,7 +6,8 @@
   "scripts": {
     "build": "webpack",
     "start": "node dist/bundle.js",
-    "dev": "webpack-dev-server --mode development"
+    "dev": "webpack-dev-server --mode development",
+    "clean": "rm -rf node_modules && rm -rf .cache"
   },
   "repository": {
     "type": "git",
