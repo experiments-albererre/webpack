@@ -1,0 +1,6 @@
+@import "styles/colors.css";
+@import "styles/nested.css";
+
+.container {
+    display: flex;
+}
