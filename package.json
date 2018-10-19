@@ -1,0 +1,21 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "Feeling the pain with webpack",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "node dist/bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/experiments-albererre/webpack.git"
+  },
+  "keywords": [],
+  "author": "Alber Erre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/experiments-albererre/webpack/issues"
+  },
+  "homepage": "https://github.com/experiments-albererre/webpack#readme"
+}
